@@ -1,4 +1,4 @@
-# RAWandYAML Exporter
+# raw-yaml export
 An ImageJ plugin for converting images and imagestacks to .raw files and subsequent create a YAML file for processing with Picasso Localize.
 
 ###	tl;dr
